@@ -1,7 +1,7 @@
 # Bankrupt-Classification
 bankrupt-classification-using-oversampling
 
-# iNeuron hackathon 2020
+# iNeuron Hackathon 2020
 
 <p>
   <h1>
@@ -11,9 +11,10 @@ bankrupt-classification-using-oversampling
 </p>
 
 
-This dataset was collected from iNeuron Hackathon Challenge 2020:
+### This dataset was collected from iNeuron Hackathon Challenge 2020:
 Link: Link to the dataset: <a href="https://drive.google.com/drive/folders/1mBVPLY5_YWcx2C_OdWdLBTDCsVEAhEz-?usp=sharing">click here</a>
 
-
+'''
 @author: Vivek Ghosh
 @submitted: iNeuron Intelligence AI Hackathon Programme
+'''
