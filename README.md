@@ -12,7 +12,7 @@ bankrupt-classification-using-oversampling
 
 
 This dataset was collected from iNeuron Hackathon Challenge 2020:
-Link: Link to the dataset: @VivekGhoshDriveLink
+Link: Link to the dataset: <a href="https://drive.google.com/drive/folders/1mBVPLY5_YWcx2C_OdWdLBTDCsVEAhEz-?usp=sharing">click here</a>
 
 
 @author: Vivek Ghosh
